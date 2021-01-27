@@ -160,6 +160,7 @@ projects[token_tweaks][download][revision] = "75818fbfb97bf8882ca106e6af703be764
 projects[transliteration][version] = "3.2"
 projects[twitter_block][version] = "2.3"
 projects[twitter_block][patch][] = "https://www.drupal.org/files/issues/twitter_block-2751845-5.patch"
+projects[upgrade_status][version] = "3.1"
 projects[username_enumeration_prevention][version] = "1.3"
 projects[userprotect][version] = "1.2"
 projects[userprotect][patch][] = "https://www.drupal.org/files/issues/2019-04-03/3045588-PHP_7_3_Compatibility.patch"
